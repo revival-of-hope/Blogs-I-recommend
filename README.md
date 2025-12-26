@@ -1,155 +1,160 @@
-这些博客仅为我个人收藏,绝大多数博客都是技术分享和生活分享相互杂糅的,故很难做到什么领域分类,仅仅是按照我个人的喜好进行了归类,若有推荐的博客或者分类的想法请在issue里告知
+这些博客仅为我个人收藏,绝大多数博客都是技术分享和生活分享相互杂糅的,故很难做到什么领域分类,仅仅是按照我个人的喜好进行了归类,每个分类里的顺序仅为我加入收藏的时间顺序,链接说明由AI生成.
+若有推荐的博客或者分类的想法请在issue里告知
 ## 大量博客集合
 - [年末总结文集合仓库](https://github.com/saveweb/review-2023)-
 - [十年之约](https://www.foreverblog.cn/blogs.html?year=2025) 
-- [RawWeb](https://rawweb.org/) - 博客搜索引擎
+- [博客搜索引擎](https://rawweb.org/) 
+- [CS-BAOYAN 复习资料](https://cs-baoyan.github.io/CS-BAOYAN-2024/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/)
+- [CSBAOYAN 2025 保研经验贴](https://csbaoyan.top/%E4%BF%9D%E7%A0%94%E7%BB%8F%E9%AA%8C%E8%B4%B4/2025%E5%B9%B4)
 
 ## 优秀博客
-- https://mhperng.blogspot.com/
-- https://www.ruanyifeng.com/blog/
-- https://www.longluo.me/
-- https://innei.in/posts?view_mode=compact
-- https://sustech-application.com/#/grad-application/computer-science-and-engineering/README
-- https://blog.csdn.net/singwhatiwanna
-- https://cs-baoyan.github.io/CS-BAOYAN-2024/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/
-- https://csbaoyan.top/%E4%BF%9D%E7%A0%94%E7%BB%8F%E9%AA%8C%E8%B4%B4/2025%E5%B9%B4
-- https://gavin-james.github.io/develop/algorithms-structures/alg-basic/alg-basic-graph-aoe.html#%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0
-- https://mtlynch.io/aardvarkd/
-- https://yyy.zone/view/content/529
-- https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/
-- https://ramsayleung.github.io/zh/
-- https://paulgraham.com/articles.html
-- https://wang54.blogspot.com/2020/01/2020.html
-- https://endtimes.dev/why-lowercase-letters-save-data/
-- https://simonwillison.net/
-- https://www.hecaitou.com/
-- https://justyy.com/
-- https://wiki.eryajf.net/
-- https://www.changhai.org/
-- https://luhuadong.com/hexo/hexo-music
-- https://blog.codingnow.com/
-- https://www.peterjxl.com/Computer/Principles-of-Computer-Organization/?utm_source=chatgpt.com
-- https://kangaroogao.com/
-- https://www.piglei.com/
-- https://laike9m.com/blog/wo-de-2019-pycon-china-xiao-jie-xia,127/
-- https://blog.jixiaob.cn/
-- https://richard-docs.netlify.app/blogs/b-027
-- https://blog.dong4j.site/archives/
-- https://note.com/nekonyan00
-- https://juejin.cn/search?utm_source=chatgpt.com&query=25%E6%AF%95%E4%B8%9A&fromSeo=0&fromHistory=0&fromSuggest=0
-- https://plantree.me/
-- https://notesbylex.com/tag/machinelearning
-- https://spaces.ac.cn/
-- https://chise.hachiroku.com/zh/
-- https://panda.wikimoe.com/
-- https://www.guzhengsvt.cn/zh-cn/
-- https://liyafu.com/
-- https://xuanwo.io/
-- https://blog.anheyu.com/
-- https://blog.auroraeve.com/archives/
-- https://mathpretty.com/
-- https://blog.dreamfever.me/
-- https://situ2001.com/blog/graduation/
-- https://blog.mwwlzz.top/article/baoyan
-- https://nova.gal/zh/blog/2025-06-21-%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A/
-- https://www.zackwu.com/posts/2020-07-19-why-i-choose-to-work-after-graduation/
-- https://lihan3238.github.io/p/dream_240930/
-- https://blog.zerolacqua.top/posts/7b2c5414.html
-- https://ddadaal.me/articles/progress-to-recommended-postgraduates/cn
-- https://gaocegege.com/Blog/
-- https://ipotato.me/article/65
-- https://blog.amamiyayuuko.com/page/11/
-- https://ddadaal.me/
-- https://blog.shanwer.top/2023/11/a-tutorial-to-the-computer-science-learning/
-- https://01.me/
-- https://lmmsoft.github.io/%E6%88%91%E7%9A%84%E6%80%9D%E8%80%83/2008/06/19/%E5%A4%A7%E4%B8%80%E9%82%A3%E5%B9%B4-%E5%A4%A7%E5%9B%9B%E9%82%A3%E5%B9%B4-%E6%88%91%E4%BB%AC%E5%8F%98%E4%BA%86%E5%A4%9A%E5%B0%91-%E8%BD%AC+%E6%84%9F%E6%83%B3.html
-- https://meledee.com/2025/12/4738.html#commentform
-- https://iliu.org/
-- https://www.tortorse.com/
-- https://blog.xinshijiededa.men/
-- https://miaotony.xyz/
+- [MHPerng 博客](https://mhperng.blogspot.com/)
+- [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
+- [龙洛博客](https://www.longluo.me/)
+- [Innei 博客](https://innei.in/posts?view_mode=compact)
+- [SUSTech 研究生申请](https://sustech-application.com/#/grad-application/computer-science-and-engineering/README)
+- [CSDN singwhatiwanna](https://blog.csdn.net/singwhatiwanna)
+
+- [Gavin James 算法教程](https://gavin-james.github.io/develop/algorithms-structures/alg-basic/alg-basic-graph-aoe.html#%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0)
+- [MT Lynch Aardvarkd](https://mtlynch.io/aardvarkd/)
+- [YYY Zone 文章](https://yyy.zone/view/content/529)
+- [Pragmatic Engineer Cloudflare Outage](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/)
+- [Ramsay Leung 博客](https://ramsayleung.github.io/zh/)
+- [Paul Graham 文章](https://paulgraham.com/articles.html)
+- [Wang54 Blog](https://wang54.blogspot.com/2020/01/2020.html)
+- [Endtimes.dev](https://endtimes.dev/why-lowercase-letters-save-data/)
+- [Simon Willison 博客](https://simonwillison.net/)
+- [HeCaiTou 博客](https://www.hecaitou.com/)
+- [JustYY 博客](https://justyy.com/)
+- [Eryajf Wiki](https://wiki.eryajf.net/)
+- [Changhai.org](https://www.changhai.org/)
+- [Luhuadong Hexo Music](https://luhuadong.com/hexo/hexo-music)
+- [CodingNow 博客](https://blog.codingnow.com/)
+- [PeterJXL 计算机原理](https://www.peterjxl.com/Computer/Principles-of-Computer-Organization/?utm_source=chatgpt.com)
+- [Kangaroo Gao 博客](https://kangaroogao.com/)
+- [PigLei 博客](https://www.piglei.com/)
+- [Laike9M 博客](https://laike9m.com/blog/wo-de-2019-pycon-china-xiao-jie-xia,127/)
+- [Jixiaob 博客](https://blog.jixiaob.cn/)
+- [Richard Docs](https://richard-docs.netlify.app/blogs/b-027)
+- [Dong4J 文章](https://blog.dong4j.site/archives/)
+- [Nekonyan Note](https://note.com/nekonyan00)
+- [Juejin 搜索结果](https://juejin.cn/search?utm_source=chatgpt.com&query=25%E6%AF%95%E4%B8%9A&fromSeo=0&fromHistory=0&fromSuggest=0)
+- [Plantree 博客](https://plantree.me/)
+- [NotesByLex 机器学习](https://notesbylex.com/tag/machinelearning)
+- [SPACES.AC](https://spaces.ac.cn/)
+- [Chise Hachiroku](https://chise.hachiroku.com/zh/)
+- [Panda WikiMoe](https://panda.wikimoe.com/)
+- [古筝学习博客](https://www.guzhengsvt.cn/zh-cn/)
+- [LiYaFu 博客](https://liyafu.com/)
+- [Xuanwo 博客](https://xuanwo.io/)
+- [Anheyu 博客](https://blog.anheyu.com/)
+- [AuroraEve 博客](https://blog.auroraeve.com/archives/)
+- [MathPretty 博客](https://mathpretty.com/)
+- [DreamFever 博客](https://blog.dreamfever.me/)
+- [Situ2001 博客毕业](https://situ2001.com/blog/graduation/)
+- [MWLZZ 文章](https://blog.mwwlzz.top/article/baoyan)
+- [Nova Gal 博客](https://nova.gal/zh/blog/2025-06-21-%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A/)
+- [Zack Wu 博客](https://www.zackwu.com/posts/2020-07-19-why-i-choose-to-work-after-graduation/)
+- [LiHan 个人博客](https://lihan3238.github.io/p/dream_240930/)
+- [ZeroLacqua 文章](https://blog.zerolacqua.top/posts/7b2c5414.html)
+- [Ddadaal 推荐研究生](https://ddadaal.me/articles/progress-to-recommended-postgraduates/cn)
+- [GaoCeGeGe Blog](https://gaocegege.com/Blog/)
+- [IPotato 文章](https://ipotato.me/article/65)
+- [Amamiya Yuuko](https://blog.amamiyayuuko.com/page/11/)
+- [Ddadaal 博客](https://ddadaal.me/)
+- [Shanwer 教程](https://blog.shanwer.top/2023/11/a-tutorial-to-the-computer-science-learning/)
+- [01.me](https://01.me/)
+- [LMMSoft 思考](https://lmmsoft.github.io/%E6%88%91%E7%9A%84%E6%80%9D%E8%80%83/2008/06/19/%E5%A4%A7%E4%B8%80%E9%82%A3%E5%B9%B4-%E5%A4%A7%E5%9B%9B%E9%82%A3%E5%B9%B4-%E6%88%91%E4%BB%AC%E5%8F%98%E4%BA%86%E5%A4%9A%E5%B0%91-%E8%BD%AC+%E6%84%9F%E6%83%B3.html)
+- [Meledee 博客](https://meledee.com/2025/12/4738.html#commentform)
+- [ILiu 博客](https://iliu.org/)
+- [Tortorse 博客](https://www.tortorse.com/)
+- [Xinshijiededa 博客](https://blog.xinshijiededa.men/)
+- [Miaotony 博客](https://miaotony.xyz/)
+
 
 ## 尚未归类
-- https://dancying.cn/
-- https://www.bboy.app/
-- https://datagenetics.com/blog/may12018/index.html
-- https://blog.pragmaticengineer.com/
-- https://taxodium.ink/25.html
-- https://www.cnblogs.com/PeterJXL/p/18371078
-- https://fenghen.me/posts/
-- https://lutaonan.com/
-- https://feedx.net/rss/reuters.xml
-- https://blog.amamiyayuuko.com/
-- https://wangyi.ai/
-- https://www.smalloranges.net/
-- https://guanqr.com/
-- https://byvoid.com/zht/blog/central-america-2/
-- https://isheep.xlog.app/2021-report
-- https://weiyan.cc/
-- https://dawner.top/
-- https://www.himiku.com/
+- [Dancying 博客](https://dancying.cn/)
+- [BBoy App](https://www.bboy.app/)
+- [Data Genetics 博客](https://datagenetics.com/blog/may12018/index.html)
+- [Pragmatic Engineer 博客](https://blog.pragmaticengineer.com/)
+- [Taxodium 博客](https://taxodium.ink/25.html)
+- [PeterJXL 博客文章](https://www.cnblogs.com/PeterJXL/p/18371078)
+- [Fenghen 博客](https://fenghen.me/posts/)
+- [Lutaonan 博客](https://lutaonan.com/)
+- [Feedx Reuters RSS](https://feedx.net/rss/reuters.xml)
+- [Amamiya Yuuko 博客](https://blog.amamiyayuuko.com/)
+- [Wangyi AI](https://wangyi.ai/)
+- [Small Oranges 博客](https://www.smalloranges.net/)
+- [GuanQR 博客](https://guanqr.com/)
+- [ByVoid 博客](https://byvoid.com/zht/blog/central-america-2/)
+- [iSheep 2021 报告](https://isheep.xlog.app/2021-report)
+- [Weiyan 博客](https://weiyan.cc/)
+- [Dawner 博客](https://dawner.top/)
+- [Himiku 博客](https://www.himiku.com/)
+
 ## 可读
-- https://boyter.org/
-- https://tangcuxiaojikuai.xyz/archives/
-- https://nekonull.me/archive/2310-jp-travel/
-- https://changchen.me/
-- https://miracle-techlink.github.io/
-- https://bookvision7.com/
-- https://wukan.me/
-- https://catb.org/~esr/
-- https://sinyalee.com/blog/?p=1091
-- https://wenjiew-astro.github.io/
-- https://antirez.com/latest/0
-- https://wdbyte.com/
-- https://www.kitze.io/
-- https://www.voidking.com/archives/
-- https://bhupesh.me/what-i-have-learned-from-blogging-so-far-retrospect/
-- https://windliang.wang/
-- https://shrik3.com/log/some_thoughts/
-- https://jiajunhuang.com/
-- https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/
-- https://blog.cugxuan.cn/
-- https://www.52txr.cn/
-- https://blog.lyunvy.top/
-- https://ddadaal.me/articles
-- https://champhoon.xyz/pho/firework-yisi/
-- https://blog.liuf.net/
-- https://lukefan.com/
-- https://alzt02n.github.io/2025/07/17/%E9%83%A8%E5%88%86gal%E7%9A%84%E8%A7%A3%E5%8C%85/
+- [Boyter 博客](https://boyter.org/)
+- [Tangcuxiaojikuai 文章](https://tangcuxiaojikuai.xyz/archives/)
+- [Nekonull JP Travel](https://nekonull.me/archive/2310-jp-travel/)
+- [Changchen 博客](https://changchen.me/)
+- [Miracle Techlink 博客](https://miracle-techlink.github.io/)
+- [BookVision7 博客](https://bookvision7.com/)
+- [Wukan 博客](https://wukan.me/)
+- [ESR 博客](https://catb.org/~esr/)
+- [Sinyalee 博客](https://sinyalee.com/blog/?p=1091)
+- [Wenjiew Astro 博客](https://wenjiew-astro.github.io/)
+- [Antirez 博客](https://antirez.com/latest/0)
+- [WDByte 博客](https://wdbyte.com/)
+- [Kitze 博客](https://www.kitze.io/)
+- [VoidKing 文章](https://www.voidking.com/archives/)
+- [Bhupesh 博客经验](https://bhupesh.me/what-i-have-learned-from-blogging-so-far-retrospect/)
+- [Windliang 博客](https://windliang.wang/)
+- [Shrik3 博客](https://shrik3.com/log/some_thoughts/)
+- [Jiajun Huang 博客](https://jiajunhuang.com/)
+- [KK Technium 文章](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
+- [Cugxuan 博客](https://blog.cugxuan.cn/)
+- [52TXR 博客](https://www.52txr.cn/)
+- [Lyunvy 博客](https://blog.lyunvy.top/)
+- [Ddadaal 文章](https://ddadaal.me/articles)
+- [Champhoon 博客](https://champhoon.xyz/pho/firework-yisi/)
+- [Liuf 博客](https://blog.liuf.net/)
+- [LukeFan 博客](https://lukefan.com/)
+- [Alzt02N Gal 解包](https://alzt02n.github.io/2025/07/17/%E9%83%A8%E5%88%86gal%E7%9A%84%E8%A7%A3%E5%8C%85/)
+
 ## 不再更新
-- https://www.cnblogs.com/zilongshanren
-- https://eyehere.net/2011/how-many-image-in-one-paper/
-- https://blog.brachiosoft.com/
-- https://www.mattrichman.net/blog/
-- https://gpfault.net/
-- https://kalosaner.github.io/page2/
-- https://www.liechi.org/cn/2019/04/ngago/
-- https://blog.illlights.com/
-- https://house.coderxst.top/page/5/#content-inner
-- https://zilongshanren.com/tags/
-- https://dotat.at/@/2025-10-24-tetrapod.html
-- https://www.robertelder.org/?_gl=1*1so430g*_gcl_au*NDQ4ODU4Nzk1LjE3NjIwMDIzNTQ.*_ga*NzAzNDc3NDQzLjE3NjIwMDIzNTU.*_ga_DHH2GMDJDB*czE3NjIwMDIzNTQkbzEkZzEkdDE3NjIwMDI1MTQkajYwJGwwJGgw
-- https://borgwang.github.io/archive
-- https://danwang.co/
-- https://blog.juis.top/archives/
-- https://www.hahack.com/
-- https://blog.cnbang.net/archives/
-- https://victorzhou.com/
-- https://hundren.github.io/
-- https://distill.pub/
-- https://www.dongwm.com/archives
-- https://www.zhangxinxu.com/life/page/2/
-- https://archive.1link.fun/blog/
-- https://rainylog.com/
-- https://zobinhuang.github.io/sec_learning/Tech_Computer_Architerture/Architecture_5_MIPS_Multiple_Cycle/
-- https://kjhhhh.github.io/tags/
-- https://pockies.github.io/page3/
-- https://imf.ms/
-- https://www.xdull.cn/kmp.html
-- https://nano.ac/archives/
-- https://xuchi.name/32/
-- https://magren.cc/
-- https://blog.ops-coffee.com/
-- https://icys.top/posts/202209300000.html
-- https://blog.eastonman.com/
-- https://xuchi.name/
+- [Zilong Shanren 博客](https://www.cnblogs.com/zilongshanren)
+- [EyeHere](https://eyehere.net/2011/how-many-image-in-one-paper/)
+- [BrachioSoft 博客](https://blog.brachiosoft.com/)
+- [Matt Richman 博客](https://www.mattrichman.net/blog/)
+- [GPFault 博客](https://gpfault.net/)
+- [Kalosaner 博客](https://kalosaner.github.io/page2/)
+- [Liechi 博客](https://www.liechi.org/cn/2019/04/ngago/)
+- [Illlights 博客](https://blog.illlights.com/)
+- [coderxst](https://house.coderxst.top/page/5/#content-inner)
+- [Zilong Shanren Tags](https://zilongshanren.com/tags/)
+- [Dotat Tetrapod 文章](https://dotat.at/@/2025-10-24-tetrapod.html)
+- [Robert Elder 博客](https://www.robertelder.org/?_gl=1*1so430g*_gcl_au*NDQ4ODU4Nzk1LjE3NjIwMDIzNTQ.*_ga*NzAzNDc3NDQzLjE3NjIwMDIzNTU.*_ga_DHH2GMDJDB*czE3NjIwMDIzNTQkbzEkZzEkdDE3NjIwMDI1MTQkajYwJGwwJGgw)
+- [Borg Wang 归档](https://borgwang.github.io/archive)
+- [Dan Wang 博客](https://danwang.co/)
+- [Juis 博客](https://blog.juis.top/archives/)
+- [HaHack 博客](https://www.hahack.com/)
+- [CnBang 博客](https://blog.cnbang.net/archives/)
+- [Victor Zhou 博客](https://victorzhou.com/)
+- [Hundren 博客](https://hundren.github.io/)
+- [Distill.pub](https://distill.pub/)
+- [DongWM 文章](https://www.dongwm.com/archives)
+- [ZhangXinxu 博客](https://www.zhangxinxu.com/life/page/2/)
+- [1Link Archive](https://archive.1link.fun/blog/)
+- [RainyLog 博客](https://rainylog.com/)
+- [Zobin Huang MIPS 架构](https://zobinhuang.github.io/sec_learning/Tech_Computer_Architerture/Architecture_5_MIPS_Multiple_Cycle/)
+- [KJHH Tags](https://kjhhhh.github.io/tags/)
+- [Pockies 博客](https://pockies.github.io/page3/)
+- [IMF 博客](https://imf.ms/)
+- [XDull KMP 教程](https://www.xdull.cn/kmp.html)
+- [Nano.ac 归档](https://nano.ac/archives/)
+- [Xuchi 博客](https://xuchi.name/32/)
+- [Magren 博客](https://magren.cc/)
+- [Ops Coffee 博客](https://blog.ops-coffee.com/)
+- [Icys 博客](https://icys.top/posts/202209300000.html)
+- [Eastonman 博客](https://blog.eastonman.com/)
+- [Xuchi 博客首页](https://xuchi.name/)
